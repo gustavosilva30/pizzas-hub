@@ -1,0 +1,6 @@
+{
+  "name": "PizzaSaaS - Plataforma Multiempresa para Pizzarias",
+  "description": "Sistema SaaS multi-tenant completo para pizzarias com catálogo online mobile-first, painel operacional de pedidos, KDS de cozinha, rastreamento de entregadores com mapa em tempo real, fichas técnicas e baixa atômica de estoque, financeiro gerencial e automação WhatsApp via Evolution API.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
